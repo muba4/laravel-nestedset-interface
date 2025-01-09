@@ -18,6 +18,10 @@
   * шаблонизатора Blade
   * CSS-фреймфорка Tailwind CSS
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/muba4/laravel-nestedset-interface/refs/heads/main/public/images/forReadMe/2025-01-09_211639_localhost.png" width="400" height="200" alt="Йайтсо Logo">
+</p>
+
 ## Что дальше?
 
 Всё это было сделано для [**WEB-[ло]мастерской**](https://lb8.ru), так что...
