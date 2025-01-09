@@ -1,14 +1,8 @@
-<div style="display: flex; justify-content: center;">
-    <div>
-        <img src="https://raw.githubusercontent.com/muba4/laravel-nestedset-interface/54ca1213b18c21a232e6a839a053412abdea920b/public/images/svg/icons/nest.svg" width="400" height="200" alt="Йайтсо Logo">
-    </div>
-    <div>
-        <span style="font-size: 3rem; color: #ffc22d">Проект «Йайтсо»</span>
-        <span style="color: darkred; margin: 0 0 3rem 0">v.1.0.0.</span>
-    </div>
-</div>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/muba4/laravel-nestedset-interface/54ca1213b18c21a232e6a839a053412abdea920b/public/images/svg/icons/nest.svg" width="400" height="200" alt="Йайтсо Logo">
+</p>
 
-<div>
+<h1 align="center">Проект «Йайтсо»</h1>
 
 ## About Laravel
 
@@ -67,4 +61,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-</div>
