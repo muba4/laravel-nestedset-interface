@@ -10,6 +10,8 @@
 
 Перевод документации на русский язык на [Лунной Базе](https://mb4.ru/frameworks/laravel/packages/2042-lazychaser-laravel-nestedset.html)
 
+Видосик демка о том, [как работать с WEB-интерфейсом на РуТупчеге](https://rutube.ru/video/44cc843097dad5f054862bcdd053a7e8/)
+
 Тестировался на [Laravel](https://laravel.com/) v.11.34
 
 * используются однометодные контроллеры под каждую функцию
